@@ -3,4 +3,5 @@ this is a test
 let's add aline
 
 does it handle conflicts ?
-azjeflzeflkz
+
+yes
